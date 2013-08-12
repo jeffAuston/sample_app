@@ -1,0 +1,41 @@
+  135  rails server
+  155  /rails
+  277  vi config/initializers/rails_admin.rb 
+  279  vi spec/features/rails_admin.rb 
+  287  rails server
+  290  rails server
+  292  rails server
+  296  rails server
+  336  rails -v
+  337  gem install rails --version 4.0.0
+  338  rails -v
+  349  mkdir rails_projects
+  350  cd rails_projects/
+  351  rails new first_app
+  369  rvm use 2.0.0@railstutorial_rails_4_0 --create --default
+  409  cd rails_projects/
+  416  rvm use 2.0.0@railstutorial_rails_4_0 --create --default
+  420  rails -v
+  437  rails -v
+  438  gem install rails --version 4.0.0
+  439  rails -v
+  440  rails -v
+  443  rails new first_ap
+  450  rails server
+  451  rails server
+  464  cd Desktop/code/stuff/rails_projects/first_ap/
+  487  cd rails_projects/
+  534  rails s
+  544  cd rails
+  545  cd rails_projects/
+  546  rails new sample_app --skip-test-unit
+  557  rails generate rspec:install
+  588  history rails
+  589  history | grep rails
+  596  history | grep rails
+  598  rails generate controller StaticPages home help --no-test-framework
+  601  rails s
+  618  rails generate integration_test static_pages
+  619  history | grep rails
+  620  history | grep rails rails_cmds.txt
+  621  history | grep rails > rails_cmds.txt

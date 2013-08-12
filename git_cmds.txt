@@ -1,0 +1,79 @@
+  137  git pull
+  139  git pull
+  140  git pull
+  150  git clone git@github.com:ThreadSuite/repo-cms.git
+  154  git pull
+  192  git status
+  193  git add app/views/admin/brands/edit.html.haml
+  194  git commit -m 'moved bottom page nav links to top of page'
+  195  git status
+  196  git push
+  215  git status
+  248  git status
+  251  git status
+  253  git status
+  258  git status
+  289  git pull
+  294  git pull
+  295  git pull
+  327  git status
+  328  git pull
+  380  git pull
+  381  git remote -v
+  385  git remote -v
+  390  git remote -v
+  394  git remote -v
+  399  git remote -v
+  400  git remote add production git@heroku.com:ts-api-production-6394.git
+  401  git remote -v
+  403  git fetch production master
+  469  tar -zxf git-1.7.2.2.tar.gz
+  474  ll /usr/local/git
+  483  git status
+  489  git config --global user.name "Jeff Auston"
+  490  git config --global user.email jeff.auston@yahoo.com
+  491  git config --global alias.co checkout
+  492  git config --global core.editor "subl -w"
+  493  git init
+  495  ll .gitignore
+  496  vi .gitignore
+  497  git status
+  498  git add .
+  504  git status
+  554  vi .gitignore 
+  558  git init
+  559  git add .
+  560  git commit -m "Initial commit"
+  563  git status
+  564  git mv README.rdoc README.rd
+  567  git mv README.rdoc README.md
+  568  git commt -m "Improve README"
+  569  git commit -m "Improve README"
+  570  git push
+  571  git remote add origin https://github.com/jeffAuston/sample_app.git
+  572  git push -u origin master
+  574  git push heroku master
+  581  git status
+  582  git add .
+  583  git commit -m "readme.md"
+  585  git push
+  586  git push
+  590  history | grep git
+  594  history | grep git | grep checkout
+  595  git checkout -b static-pages
+  597  git status
+  599  git status
+  603  git status
+  604  git add config/routes.rb 
+  605  git commit -m 'changes to routes.rb'
+  606  git push
+  607  git status
+  608  git add .
+  609  git commit -m 'style sheets and stuff'
+  610  git push
+  611  git status
+  613  git push
+  616  git status
+  617  git status
+  622  history | grep git
+  623  history | grep git > git_cmds.txt
